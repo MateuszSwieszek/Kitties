@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-family: 'Loved by the King';
+  font-size: 72px;
+  color: #f3b0e5;
+}
